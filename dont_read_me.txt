@@ -1,0 +1,1 @@
+Ok, I learned how to use Git today, and I think it's a good start to pick back my c++ skill.
